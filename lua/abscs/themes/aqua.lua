@@ -100,6 +100,7 @@ return {
 	MatchParenBG              = "#1D918B",
 	MatchParenFG              = "#FFFADE",
 	Method                    = "#8877B1",
+	Decorator                 = "#8877B1",
 	Namespace                 = "#FFFFFF",
 	NonText                   = "#373C45",
 	Note                      = "#FBB13C",
