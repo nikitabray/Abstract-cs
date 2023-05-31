@@ -133,7 +133,7 @@ return {
 	StringRegex               = "#FF0800",
 	Strong                    = "#E4717A",
 	Structure                 = "#FC2929",
-	Superclass                = "#592720"
+	Superclass                = "#592720",
 	Symbol                    = "#592720",
 	TabLine                   = "#CCCCCC",
 	TabLineFill               = "#CCCCCC",
