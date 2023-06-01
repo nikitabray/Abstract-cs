@@ -54,7 +54,7 @@ return {
 
 
 	-- LANGUAGES
-	object                    = "#FC2929",
+	attribute                 = "#FC2929",
 	Access                    = "#FC2929",
 	Annotation                = "#CC5500",
 	Arguments                 = "#1D918B",
