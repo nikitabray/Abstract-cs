@@ -152,7 +152,7 @@ return {
 	Typedef                   = "#5AD1AA",
 	UIProp                    = "#E4717A",
 	URI                       = "#B31B1B",
-	Variable                  = "#00BFA4",
+	Variable                  = "#BBBBBB",
 	VariableBuiltin           = "#99BADD",
 	Warning                   = "#FBB13C",
 	markdownBlockquote        = "#BBBBBB",
