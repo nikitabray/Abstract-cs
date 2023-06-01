@@ -54,13 +54,13 @@ return {
 
 
 	-- LANGUAGES
-	attribute                 = "#FC2929",
 	Access                    = "#FC2929",
 	Annotation                = "#CC5500",
 	Arguments                 = "#1D918B",
 	Attribute                 = "#E97451",
 	Block                     = "#FC2929",
 	Boolean                   = "#01A0F5",
+	pythonAsync               = "#01A0F5",
 	BoxProp                   = "#FF80FF",
 	Braces                    = "#8E24FF",
 	Character                 = "#50C16E",
